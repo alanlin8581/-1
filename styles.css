@@ -1,3 +1,9 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq77s_uvKuwaoEHPkKfLuWPsJSPDId6ZErzKoCyvhEToIOBP1E");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
 .title {
     color: Red;
     text-align: center;
